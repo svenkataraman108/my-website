@@ -1,0 +1,35 @@
+---
+title: "Shriya V.'s Personal Website"
+author: "Shriya Venkataraman"
+output: html_document
+date: "`r Sys.time()`"
+---
+
+## About Me
+
+Hi! I'm a Shriya, a Statistics and Data Science Junior. I am student in Data Product Development and I joined this class because of my interests in PM and Data Analytics. Last summer, I was an intern at CBRE Investment Management as a Data Engineer. 
+
+This site was built for a class assignment. I'm interested in data, design, and learning new tools.
+
+## 📎 My GitHub
+
+[Visit my GitHub Profile](https://github.com/yourusername)
+
+## 📷 My Image
+
+Here is an image I added to my website:
+
+![A nice image](shriya.JPG)
+
+## 📚 My Favorite Things
+
+- Watching sci-fi shows  
+- Reading graphic novels
+
+```markdown
+## 🕒 Website Build Time
+
+```{r}
+Sys.time()
+
+
